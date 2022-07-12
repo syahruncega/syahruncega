@@ -220,6 +220,17 @@
   </tr>
   <tr>
     <td align="center" width="96">
+      <a href="#vercel">
+        <img
+          src="https://github.com/syahruncega/syahruncega/blob/main/svgs/vercel-white.svg"
+          width="48"
+          height="48"
+          alt="Vercel"
+        />
+      </a>
+      <br />Vercel
+    </td>
+    <td align="center" width="96">
       <a href="#planetscale">
         <img
           src="https://github.com/syahruncega/syahruncega/blob/main/svgs/planetscale.svg"
