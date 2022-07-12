@@ -73,7 +73,27 @@
       </a>
       <br>Prisma
     </td>
-     <td align="center" width="96">
+    <td align="center" width="96">
+      <a href="#dart" >
+        <img src="https://github.com/syahruncega/syahruncega/blob/main/svgs/dart.svg" width="48" height="48" alt="Git" />
+      </a>
+      <br>Dart
+    </td>
+    <td align="center" width="96">
+      <a href="#flutter" >
+        <img src="https://github.com/syahruncega/syahruncega/blob/main/svgs/flutter.svg" width="48" height="48" alt="Git" />
+      </a>
+      <br>Flutter
+    </td>
+      <td align="center" width="96">
+      <a href="#laravel">
+        <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="Laravel" />
+      </a>
+      <br>MySQL
+    </td>
+  </tr>
+   <tr>
+   <td align="center" width="96">
       <a href="#nuxtjs" >
         <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
       </a>
@@ -84,22 +104,7 @@
         <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="48" height="48" alt="Laravel" />
       </a>
       <br>Laravel
-    </td>
-      <td align="center" width="96">
-      <a href="#laravel">
-        <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="Laravel" />
-      </a>
-      <br>MySQL
-    </td>
-     
-  </tr>
-   <tr>
-      <td align="center" width="96">
-      <a href="#flutter" >
-        <img src="https://github.com/syahruncega/syahruncega/blob/main/svgs/flutter.svg" width="48" height="48" alt="Git" />
-      </a>
-      <br>Flutter
-    </td>
+      </td>
       <td align="center" width="96">
       <a href="#supabase" >
         <img src="https://github.com/syahruncega/syahruncega/blob/main/svgs/supabase.svg" width="48" height="48" alt="supabase" />
@@ -112,12 +117,20 @@
       </a>
       <br>Firebase
     </td>
+     <td align="center" width="96">
+      <a href="#prismic">
+        <img src="https://github.com/syahruncega/syahruncega/blob/main/svgs/prismic.svg" width="48" height="48" alt="Prismic" />
+      </a>
+      <br>Prismic
+    </td>
       <td align="center" width="96">
       <a href="#git" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
+  </tr>
+   <tr>
       <td align="center"  width="96">
       <a href="#vscode">
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="Jamstack" />
