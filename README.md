@@ -68,6 +68,12 @@
         <br>Next.js
     </td>  
      <td align="center" width="96">
+      <a href="#prisma">
+        <img src="https://github.com/syahruncega/syahruncega/blob/main/svgs/prisma.svg" width="48" height="48" alt="Prisma" />
+      </a>
+      <br>Prisma
+    </td>
+     <td align="center" width="96">
       <a href="#nuxtjs" >
         <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
       </a>
@@ -85,26 +91,26 @@
       </a>
       <br>MySQL
     </td>
-     <td align="center" width="96">
-      <a href="#prisma">
-        <img src="https://github.com/syahruncega/syahruncega/blob/main/svgs/prisma.svg" width="48" height="48" alt="Prisma" />
-      </a>
-      <br>Prisma
-    </td>
      
   </tr>
    <tr>
       <td align="center" width="96">
-      <a href="#ubuntu" >
-        <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width="48" height="48" alt="ubuntu" />
+      <a href="#flutter" >
+        <img src="https://github.com/syahruncega/syahruncega/blob/main/svgs/flutter.svg" width="48" height="48" alt="Git" />
       </a>
-      <br>Ubuntu
+      <br>Flutter
+    </td>
+      <td align="center" width="96">
+      <a href="#supabase" >
+        <img src="https://github.com/syahruncega/syahruncega/blob/main/svgs/supabase.svg" width="48" height="48" alt="supabase" />
+      </a>
+      <br>Supabase
     </td>
      <td align="center" width="96">
-      <a href="#digitalocean">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/DigitalOcean_logo.svg" width="48" height="48" alt="Digital Ocean" />
+      <a href="#firebase">
+        <img src="https://github.com/syahruncega/syahruncega/blob/main/svgs/firebase.svg" width="48" height="48" alt="Firebase" />
       </a>
-      <br>Digital Ocean
+      <br>Firebase
     </td>
       <td align="center" width="96">
       <a href="#git" >
@@ -123,12 +129,6 @@
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Git" />
       </a>
       <br>Postman
-    </td>
-      <td align="center" width="96">
-      <a href="#vuepress" >
-        <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" width="48" height="48" alt="Git" />
-      </a>
-      <br>VuePress
     </td>
   </tr>
 </table>
