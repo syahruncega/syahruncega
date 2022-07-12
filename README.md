@@ -10,7 +10,7 @@
 - 👨‍💻 &nbsp; Almost of my web projects are available at **[https://syahruncega.vercel.app](https://syahruncega.vercel.app)**
 - 📫 &nbsp; How to reach me **syahruncega@gmail.com**
 
-### Tech Stack
+### Tech Stack and Tools
 
 <table align="center">
   <tr>
