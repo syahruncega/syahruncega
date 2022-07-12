@@ -53,6 +53,20 @@
   </tr>
   
   <tr>
+   <td align="center" width="96">
+        <a href="#react">
+            <img src="https://github.com/syahruncega/syahruncega/blob/main/svgs/react.svg" width="48" height="48"
+                alt="react" />
+        </a>
+        <br>React.js
+    </td>
+    <td align="center" width="96">
+        <a href="#nextjs">
+            <img src="https://github.com/syahruncega/syahruncega/blob/main/svgs/nextjs.svg" width="48"
+                height="48" alt="nextjs" />
+        </a>
+        <br>Next.js
+    </td>  
      <td align="center" width="96">
       <a href="#nuxtjs" >
         <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
@@ -72,25 +86,12 @@
       <br>MySQL
     </td>
      <td align="center" width="96">
-      <a href="#ts">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
+      <a href="#prisma">
+        <img src="https://github.com/syahruncega/syahruncega/blob/main/svgs/prisma.svg" width="48" height="48" alt="Prisma" />
       </a>
-      <br>TypeScript
+      <br>Prisma
     </td>
-     <td align="center" width="96">
-        <a href="#livewire">
-            <img src="https://i0.wp.com/laravel-livewire.com/img/twitter.png" width="48" height="48"
-                alt="livewire" />
-        </a>
-        <br>Livewire
-    </td>
-    <td align="center" width="96">
-        <a href="#alpinejs">
-            <img src="https://seeklogo.com/images/A/alpine-js-logo-21F4169EAB-seeklogo.com.png" width="48"
-                height="48" alt="alpinejs" />
-        </a>
-        <br>Alpine JS
-    </td>   
+     
   </tr>
    <tr>
       <td align="center" width="96">
