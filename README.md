@@ -28,27 +28,27 @@
     </td>
      <td align="center" width="96">
       <a href="#bootstrap">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="https://github.com/syahruncega/syahruncega/blob/main/svgs/tailwind.svg" width="48" height="48" alt="Bootstrap" />
       </a>
-      <br>Bootstrap
+      <br>Tailwind
+    </td>
+     <td align="center" width="96">
+      <a href="#mantine">
+        <img src="https://github.com/syahruncega/syahruncega/blob/main/svgs/mantine.svg" width="48" height="48" alt="Mantine" />
+      </a>
+      <br>Mantine
     </td>
      <td align="center" width="96">
       <a href="#js">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="javascript" />
+        <img src="https://github.com/syahruncega/syahruncega/blob/main/svgs/javascript.svg" width="48" height="48" alt="javascript" />
       </a>
       <br>Javascript
     </td>
      <td align="center" width="96">
-      <a href="#vuejs">
-        <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="48" height="48" alt="Vuejs" />
+      <a href="#ts">
+        <img src="https://github.com/syahruncega/syahruncega/blob/main/svgs/typescript.svg" width="48" height="48" alt="typescript" />
       </a>
-      <br>Vue JS
-    </td>
-     <td align="center" width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" width="48" height="48" alt="Nuxtjs" />
-      </a>
-      <br>Nuxt JS
+      <br>Typescript
     </td>      
   </tr>
   
