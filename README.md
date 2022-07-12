@@ -1,4 +1,4 @@
-<h3> Hi There <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h3>
+<h3> Hi There <img src="https://github.com/syahruncega/syahruncega/blob/main/gifs/Hi.gif" width="30"></h3>
 
 ## I'm Syahrun Cega.
 
@@ -16,13 +16,13 @@
   <tr>
       <td align="center" width="96">
       <a href="#html5">
-        <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="48" height="48" alt="Html5" />
+        <img src="https://github.com/syahruncega/syahruncega/blob/main/svgs/html.svg" width="48" height="48" alt="Html5" />
       </a>
       <br>Html5
     </td>   
     <td align="center" width="96">
       <a href="#css3">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/48px-CSS3_logo.svg.png" width="48" height="48" alt="Css3" />
+        <img src="https://github.com/syahruncega/syahruncega/blob/main/svgs/css.svg" width="48" height="48" alt="Css3" />
       </a>
       <br>CSS3
     </td>
