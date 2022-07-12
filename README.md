@@ -222,7 +222,7 @@
     <td align="center" width="96">
       <a href="#planetscale">
         <img
-          src="https://github.com/syahruncega/syahruncega/blob/main/svgs/planetscale-new.svg"
+          src="https://github.com/syahruncega/syahruncega/blob/main/svgs/planetscale-dark.svg"
           width="48"
           height="48"
           alt="Planetscale"
