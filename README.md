@@ -7,7 +7,7 @@
 - 🔭 &nbsp; Currently working as freelancer and improving my Frontend skills with React.js
 - 🤔 &nbsp; Exploring new technologies and quick hacks and making boring stuffs automated.
 - 🎓 &nbsp; Bachelor of Technology in Computer Science and Engineering
-- 👨‍💻 &nbsp; Almost of my web projects are available at [https://syahruncega.vercel.app](https://syahruncega.vercel.app)
+- 👨‍💻 &nbsp; Almost of my web projects are available at **[https://syahruncega.vercel.app](https://syahruncega.vercel.app)**
 - 📫 &nbsp; How to reach me **syahruncega@gmail.com**
 
 ### Tech Stack
