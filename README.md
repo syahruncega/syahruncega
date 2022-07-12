@@ -54,25 +54,26 @@
   
   <tr>
    <td align="center" width="96">
+        <a href="#node">
+            <img src="https://github.com/syahruncega/syahruncega/blob/main/svgs/nodejs.svg" width="48" height="48"
+                alt="Node.js" />
+        </a>
+        <br>Node.js
+    </td>
+   <td align="center" width="96">
         <a href="#react">
             <img src="https://github.com/syahruncega/syahruncega/blob/main/svgs/react.svg" width="48" height="48"
-                alt="react" />
+                alt="React.js" />
         </a>
         <br>React.js
     </td>
     <td align="center" width="96">
         <a href="#nextjs">
             <img src="https://github.com/syahruncega/syahruncega/blob/main/svgs/nextjs.svg" width="48"
-                height="48" alt="nextjs" />
+                height="48" alt="Next.js" />
         </a>
         <br>Next.js
     </td>  
-     <td align="center" width="96">
-      <a href="#prisma">
-        <img src="https://github.com/syahruncega/syahruncega/blob/main/svgs/prisma.svg" width="48" height="48" alt="Prisma" />
-      </a>
-      <br>Prisma
-    </td>
     <td align="center" width="96">
       <a href="#dart" >
         <img src="https://github.com/syahruncega/syahruncega/blob/main/svgs/dart.svg" width="48" height="48" alt="Git" />
@@ -85,11 +86,11 @@
       </a>
       <br>Flutter
     </td>
-      <td align="center" width="96">
-      <a href="#laravel">
-        <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="Laravel" />
+    <td align="center" width="96">
+      <a href="#prisma">
+        <img src="https://github.com/syahruncega/syahruncega/blob/main/svgs/prisma.svg" width="48" height="48" alt="Prisma" />
       </a>
-      <br>MySQL
+      <br>Prisma
     </td>
   </tr>
    <tr>
@@ -105,6 +106,12 @@
       </a>
       <br>Laravel
       </td>
+      <td align="center" width="96">
+      <a href="#laravel">
+        <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="Laravel" />
+      </a>
+      <br>MySQL
+    </td>
       <td align="center" width="96">
       <a href="#supabase" >
         <img src="https://github.com/syahruncega/syahruncega/blob/main/svgs/supabase.svg" width="48" height="48" alt="supabase" />
@@ -123,14 +130,20 @@
       </a>
       <br>Prismic
     </td>
-      <td align="center" width="96">
+  </tr>
+   <tr>
+   <td align="center" width="96">
+      <a href="#planetscale" >
+        <img src="https://github.com/syahruncega/syahruncega/blob/main/svgs/planetscale.svg" width="48" height="48" alt="Planetscale" />
+      </a>
+      <br>PlanetScale
+    </td>
+   <td align="center" width="96">
       <a href="#git" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
-  </tr>
-   <tr>
       <td align="center"  width="96">
       <a href="#vscode">
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="Jamstack" />
@@ -139,9 +152,15 @@
     </td>
       <td align="center" width="96">
       <a href="#postman" >
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Git" />
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
       </a>
       <br>Postman
+    </td>
+      <td align="center" width="96">
+      <a href="#figma" >
+        <img src="https://github.com/syahruncega/syahruncega/blob/main/svgs/figma.svg" width="48" height="48" alt="Figma" />
+      </a>
+      <br>Figma
     </td>
   </tr>
 </table>
